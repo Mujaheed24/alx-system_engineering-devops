@@ -1,9 +1,2 @@
 #!/bin/bash
-ls -l
-1. alx-system_engineering-devops
-2. 0x00-shell_basics
-.0-current_working_directory
-.1-listfiles
-.2-bring_me_home
-.3-listfiles
-.4-listmorefiles
+ls -al
